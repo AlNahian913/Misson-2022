@@ -5,12 +5,16 @@ h1{
     font-family: 'Anton', sans-serif;
     font-size: 60px;
 }
+#plan{
+    margin-left: 82px;
+}
 p{
     font-family: 'Eczar', serif;
 }
-section{
+.flex-container{
     display: flex;
     margin-bottom: 100px;
+    margin-right: 5px;
 }
 .width{
     width: 70%;
@@ -30,5 +34,19 @@ section{
 h3{
     font-size: 40px;
     font-family: 'Alata', sans-serif;
+    text-align: justify;
+}
+.misson{
+    width: 20%;
+    margin-right: 20px;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 80px;
     text-align: center;
+    background-color: lightblue;
+    padding-left: 40px;
+    border-radius: 30px;
+
+}
+.misson img{
+    width: 60%;
 }
