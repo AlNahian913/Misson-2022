@@ -30,11 +30,12 @@ p{
 }
 .link-button{
     text-decoration: none;
-    background-color: rgb(48, 117, 196);
+    background-color: rgb(12, 118, 153);
     padding: 15px 45px;
     color: seashell;
     font-weight: 700;
     border-radius: 15px;
+    
 }
 h3{
     font-size: 40px;
